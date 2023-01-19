@@ -103,5 +103,7 @@ Execute the program
     </body>
 </html>
 ```
-# OUPUT
+# OUTPUT
 ![output](./Screenshot%20from%202023-01-12%2011-34-11.png)
+## RESULt:
+The timetable is displayed successfully.
